@@ -1,0 +1,2 @@
+# satyatechnologies
+software application
